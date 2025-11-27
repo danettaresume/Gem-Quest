@@ -1,6 +1,6 @@
 #include <iostream>
 int main() {
-    int number;
+    int number:
     int place;
 
     std::cout << "Hello Doom. I'm daring you to find 1 of 3 gems. The MG is in Asgard, the RG is in the Savage Land, and the TG is on Krakoa.\n";
